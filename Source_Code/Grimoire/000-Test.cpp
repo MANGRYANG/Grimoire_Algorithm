@@ -1,7 +1,3 @@
-/*
-	테스트 코드입니다.
-*/
-
 #include <iostream>
 
 int main(void)
